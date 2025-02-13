@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "663738885409",
+    "firebase_url": "https://task-scheduler-app-6bb1f-default-rtdb.firebaseio.com",
+    "project_id": "task-scheduler-app-6bb1f",
+    "storage_bucket": "task-scheduler-app-6bb1f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663738885409:android:63122dbcd5f80f0b924a60",
+        "android_client_info": {
+          "package_name": "com.kazungudev.task_scheduler_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgHCvLhM-bobkDiZ5-ey0t1_Z6B-bPS7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
